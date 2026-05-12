@@ -1,8 +1,7 @@
 # go-fleet-telemetry
 
 
-
-
+```mermaid
 graph TD
     %% Cores e Estilos
     classDef external fill:#f9f9f9,stroke:#333,stroke-width:2px,stroke-dasharray: 5 5;
@@ -55,3 +54,5 @@ graph TD
     class PrimaryLayer primary;
     class CoreLayer core;
     class SecondaryLayer secondary;
+
+```
